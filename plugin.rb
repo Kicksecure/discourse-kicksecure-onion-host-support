@@ -1,10 +1,10 @@
-# name: discourse-whonix-onion-host-support
-# about: load Whonix site on onion if used
+# name: discourse-kicksecure-onion-host-support
+# about: load Kicksecure site on onion if used
 # version: 0.1
 # authors: Miguel Jacq
 
-::ONION_HOST = "forums.dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion"
-::CLEAR_HOST = "forums.whonix.org"
+::ONION_HOST = "w5j6stm77zs6652pgsij4awcjeel3eco7kvipheu6mtr623eyyehj4yd.onion"
+::CLEAR_HOST = "forums.kicksecure.com"
 
 after_initialize do
 
