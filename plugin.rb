@@ -3,7 +3,7 @@
 # version: 0.1
 # authors: Miguel Jacq
 
-::ONION_HOST = "w5j6stm77zs6652pgsij4awcjeel3eco7kvipheu6mtr623eyyehj4yd.onion"
+::ONION_HOST = "forums.w5j6stm77zs6652pgsij4awcjeel3eco7kvipheu6mtr623eyyehj4yd.onion"
 ::CLEAR_HOST = "forums.kicksecure.com"
 
 after_initialize do
